@@ -65,10 +65,10 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
  😍─꯭─⃝‌‌𝐒𝐡opon 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
 
  const imgLinks = [
- "https://i.imgur.com/zqsuJnX.jpeg",
- "https://i.imgur.com/sxSn1K3.jpeg",
- "https://i.imgur.com/wu0iDqS.jpeg",
- "https://i.imgur.com/Huz3nAE.png"
+ "https://image2url.com/r2/default/images/1769772446519-9e42ec85-73da-4b26-8171-ae9edf9e38ab.jpg",
+ "https://image2url.com/r2/default/images/1769771913356-3a86d333-8a77-4287-b646-92bb211e5ea1.jpg",
+ "https://image2url.com/r2/default/images/1769772446519-9e42ec85-73da-4b26-8171-ae9edf9e38ab.jpg",
+ "https://image2url.com/r2/default/images/1769771913356-3a86d333-8a77-4287-b646-92bb211e5ea1.jpg"
  ];
 
  const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
