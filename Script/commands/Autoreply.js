@@ -30,7 +30,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "good night": "Sweet Dream babu… তবে আগে স্বপন বস কে GN বলে নিও 😏💤",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "shopon": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
-    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ SHOPON ☜\nFacebook: https://www.facebook.com/profile.php?id=100044713412032\nWhatsApp: +8801882333052",
+    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ SHOPON ☜\nFacebook: https://www.facebook.com/shopon.officials\nWhatsApp: Shoponvau",
     "admin": "He is SHOPON তাকে সবাই Admin VAU হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",
